@@ -88,6 +88,22 @@ flow chart:
 
 ![Screenshot 2023-11-20 132119](https://github.com/JEEVAADKAR/smart-irrigation/assets/149662396/4647b6c3-0ffe-4c9d-9707-301772f663f9)
 
+algorithm: 
+Step 1: start
+Step 2: Initialize the system
+Step 3: Read the PIR, moisture sensor from soil and tank
+step 4: Receive the observed data 
+Step 5: analyze the data
+Step 6: if motion detected, buzzer get activated, if no re-read the PIR sensor.
+             If the soil is dry, it start the irrigation process, or else re-read the moisture in the soil.
+             If the tank level below the below the threshold , motor will turn on , if no re-measure   
+              the tank level .
+Step 6 : stop
+
+block daigram:
+![block daigram](https://github.com/JEEVAADKAR/smart-irrigation/assets/149662396/0a3a15a2-8739-42c2-88bb-9c0704ab1d9b)
+
+
 
 
 
