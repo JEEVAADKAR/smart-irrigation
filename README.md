@@ -85,8 +85,9 @@ mind map:
 ![Green Modern The Power Of Recycling Mind Map](https://github.com/JEEVAADKAR/smart-irrigation/assets/149662396/57235ac9-4c72-4a9f-a83f-0c7770672244)
 
 flow chart:
+![Screenshot 2023-11-22 110625](https://github.com/JEEVAADKAR/smart-irrigation/assets/149662396/ea965e09-d838-4a39-87e3-8b47f98f2c95)
 
-![Screenshot 2023-11-20 132119](https://github.com/JEEVAADKAR/smart-irrigation/assets/149662396/4647b6c3-0ffe-4c9d-9707-301772f663f9)
+
 
 algorithm: 
 
