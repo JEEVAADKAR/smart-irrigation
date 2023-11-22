@@ -82,10 +82,13 @@ Compatibility with Precision Agriculture: Support precision agriculture practice
 These features collectively contribute to more efficient water use, reduced environmental impact, and improved crop health and yields in smart irrigation systems.
 
 mind map:
+
 ![Green Modern The Power Of Recycling Mind Map](https://github.com/JEEVAADKAR/smart-irrigation/assets/149662396/57235ac9-4c72-4a9f-a83f-0c7770672244)
 
 flow chart:
-![Screenshot 2023-11-22 110625](https://github.com/JEEVAADKAR/smart-irrigation/assets/149662396/ea965e09-d838-4a39-87e3-8b47f98f2c95)
+
+![Screenshot (44)](https://github.com/JEEVAADKAR/smart-irrigation/assets/149662396/8324b53b-dda6-47a1-bd0f-2174c37fba7e)
+
 
 
 
